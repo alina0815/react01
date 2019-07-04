@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React App in pwa",
+  "name": "My first react in pwa",
   "icons": [
     {
       "src": "/react01/images/icons/icon-a-144.png",
